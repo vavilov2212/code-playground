@@ -1,0 +1,15 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test mocha --no-warnings --ignore=node_modules/** **/*.test.js"
+  },
+  "author": "Roman Vavilov",
+  "license": "ISC",
+  "devDependencies": {
+    "cross-env": "^10.0.0",
+    "mocha": "^11.7.1"
+  }
+}

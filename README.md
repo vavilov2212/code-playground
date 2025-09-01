@@ -28,6 +28,20 @@ Collection of problem solving cases, algorithms and educational tasks.
 ```sh
 ```
 
+## Contents
+
+- ### [myPolyfills](./myPolyfills/README.md)
+
+[https://github.com/webelart/myPolyfills](https://github.com/webelart/myPolyfills)
+
+Елена Литвинова [Пишем полифилы на JavaScript (map, reduce, flat) | Уроки JS](https://www.youtube.com/watch?v=ti6vnn3NypQ)
+
+- ### [leetcode](./leetcode/README.md)
+
+[2621. Sleep](./leetcode/src/sleep/README.md) - [https://leetcode.com/problems/sleep/](https://leetcode.com/problems/sleep/)
+
+---
+
 ## Maintainers
 
 [@vavilov2212](https://github.com/vavilov2212)

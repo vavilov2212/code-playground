@@ -1,0 +1,3 @@
+[submodule "myPolyfills"]
+	path = myPolyfills
+	url = git@github.com:webelart/myPolyfills.git
