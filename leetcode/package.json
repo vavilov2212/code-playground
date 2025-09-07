@@ -1,6 +1,7 @@
 {
   "name": "leetcode",
   "version": "1.0.0",
+  "type": "commonjs",
   "description": "Leetcode problems",
   "main": "index.js",
   "scripts": {
